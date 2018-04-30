@@ -1,0 +1,24 @@
+{
+"people": [
+{"id":1,"nama":"Eliès","category":"Maroon"},
+{"id":2,"nama":"Régine","category":"Yellow"},
+{"id":3,"nama":"Liè","category":"Aquamarine"},
+{"id":4,"nama":"Anaé","category":"Pink"},
+{"id":5,"nama":"Mégane","category":"Fuscia"},
+{"id":6,"nama":"Alizée","category":"Aquamarine"},
+{"id":7,"nama":"Réservés","category":"Green"},
+{"id":8,"nama":"Méghane","category":"Red"},
+{"id":9,"nama":"Lauréna","category":"Crimson"},
+{"id":10,"nama":"Maïwenn","category":"Aquamarine"},
+{"id":11,"nama":"Solène","category":"Fuscia"},
+{"id":12,"nama":"Pål","category":"Crimson"},
+{"id":13,"nama":"Marie-josée","category":"Indigo"},
+{"id":14,"nama":"Publicité","category":"Mauv"},
+{"id":15,"nama":"Cléa","category":"Fuscia"},
+{"id":16,"nama":"Björn","category":"Mauv"},
+{"id":17,"nama":"Estée","category":"Teal"},
+{"id":18,"nama":"Erwéi","category":"Maroon"},
+{"id":19,"nama":"Mà","category":"Violet"},
+{"id":20,"nama":"Léandre","category":"Purple"}
+]
+}
